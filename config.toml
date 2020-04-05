@@ -1,0 +1,9 @@
+baseURL = "/"
+relativeURLs = true
+uglyURLs = true
+languageCode = "en-us"
+title = "sguri tech blog"
+theme = "learn"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
